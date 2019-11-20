@@ -1,4 +1,4 @@
-## Libraries installed in **Normal Environment** by default: ##
+## Default libraries installed in **Normal Environment**: ##
 
 | Name                    | Version      | Build             | Channel               |
 |-------------------------|--------------|-------------------|-----------------------|
