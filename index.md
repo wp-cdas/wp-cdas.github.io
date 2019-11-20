@@ -1,5 +1,6 @@
-##Libraries installed in **Normal Environment** by default:##
-| ﻿Name                    | Version      | Build             | Channel               |
+## Libraries installed in **Normal Environment** by default: ##
+
+| Name                    | Version      | Build             | Channel               |
 |-------------------------|--------------|-------------------|-----------------------|
 | _libgcc_mutex           | 0.1          | main              | defaults              |
 | _r-mutex                | 1.0.1        | anacondar_1       | conda-forge           |
